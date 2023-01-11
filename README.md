@@ -1,5 +1,5 @@
-### Hi there, I am Hussain Naqvi 👋
+### Hi there, I am Syed Mohammad Hussain 👋
 
-- 🔭 I’m currently working on Front End.
-- 🌱 I’m currently studying Computer Science.
+- 🔭 I works with Reactjs, Redux, Javascript, Typescript, AJAX, HTML5, and CSS3
+- 🌱 I’m studying Computer Science.
 - 📫 How to reach me: smhnaqvi111@gmail.com.
